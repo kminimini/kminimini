@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kminimini&label=Profile%20views&color=0e75b6&style=flat" alt="kminimini" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kminimini/CocoT](https://github.com/kminimini/CocoT)
+- 👨‍💻 The project can be found here [https://github.com/kminimini/CocoT](https://github.com/kminimini/CocoT)
 
 - 📫 How to reach me **gigigitg95@gmail.com**
 
