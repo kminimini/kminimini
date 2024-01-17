@@ -7,7 +7,7 @@
 ✔ We are thinking about better collaboration and constantly working to improve code quality.</br>
 ✔ You can find and proceed on your own what needs to be done for the team.</br>
 
-### Stack
+### 💪 Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <!--
 **kminimini/kminimini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
