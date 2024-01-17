@@ -1,5 +1,8 @@
 # KWAK GIMIN
 ### Hi there 👋 </br> I'm a new developer aiming to become a full-stack developer.
+-I am very interested in new technology stacks and love to learn.
+-We are thinking about better collaboration and constantly working to improve code quality.
+-You can find and proceed on your own what needs to be done for the team.
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkminimini&count_bg=%233795E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
