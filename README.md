@@ -1,5 +1,5 @@
 <p>
-  <a href="mailto:gigigitg95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gigigitg95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gigigitg95@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 # KWAK GIMIN
 ### Hi there 👋 </br> I'm a new developer aiming to become a full-stack developer.
