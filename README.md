@@ -1,4 +1,3 @@
-  <a href="mailto:gigigitg95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gigigitg95@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <h1 align="center">Hi 👋, I'm KWAK GIMIN</h1>
 <h3 align="center">✔ I am very interested in new technology stacks and love to learn.</br> ✔ We are thinking about better collaboration and constantly working to improve code quality.</br> ✔ You can find and proceed on your own what needs to be done for the team.</br></h3>
 
@@ -10,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/min_95_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="min_95_" height="30" width="40" /></a>
+<a href="https://discord.gg/min_95_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="min_95_" height="30" width="40" /> <a href="mailto:gigigitg95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gigigitg95@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
