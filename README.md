@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm GIMIN KWAK</h1>
 <h3 align="left">✔ I am very interested in new technology stacks and love to learn.</br> ✔ We are thinking about better collaboration and constantly working to improve code quality.</br> ✔ You can find and proceed on your own what needs to be done for the team.</br></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kminimini&label=Profile%20views&color=0e75b6&style=flat" alt="kminimini" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kminimini&label=Profile%20views&color=0e75b6&style=flat" alt="kminimini" /> </p> -->
 
 - 👨‍💻 The project can be found here [https://github.com/kminimini/CocoT](https://github.com/kminimini/CocoT)
 
